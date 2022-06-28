@@ -1,0 +1,23 @@
+{
+  "name": "tap-tap-tap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billxinli/tap-tap-tap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billxinli/tap-tap-tap/issues"
+  },
+  "homepage": "https://github.com/billxinli/tap-tap-tap#readme",
+  "devDependencies": {
+    "sinon": "^14.0.0",
+    "tap": "^16.3.0"
+  }
+}
